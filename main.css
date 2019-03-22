@@ -14,7 +14,7 @@
 
  background-color: #87509C;
 padding-top: 5px;
-padding-bottom: 100px;
+padding-bottom: 120px;
 
 }
 
@@ -117,7 +117,7 @@ h3 {
 }
 
 p.p-1{
-  
+  font-weight: 400;
   color: #D3D3D3;  
  text-align: center; 
  font-size: 18px;
@@ -169,6 +169,7 @@ p.p-2 {
    background-color: #E7F1F8;
  padding-top: 1px;
  color: #696969;
+ font-weight: bold;
  padding-bottom: 50px;
  text-align: center;
 }
@@ -179,13 +180,23 @@ p.p-2 {
  border-radius: 50%;
  background-color: #696969;
  margin: 0 auto;
+ margin-bottom: 30px;
 }
 
 p.ps-3-2{
    color: #696969;
  font-size: 18px;
- padding-bottom: 50px;
+ padding-bottom: 40px;
+ font-weight: normal;
+
  
+}
+p.ps-3-1{
+   color: #696969;
+ font-size: 18px;
+ padding-bottom: 40px;
+
+   font-weight: 400;
 }
 
 
@@ -199,12 +210,14 @@ p.ps-3-3 {
  padding-top: 10px;
  padding-bottom: 0px;
  color: #696969;
+ margin-bottom: 10px;
 
 }
 p.ps-3-4 {
-  
+  font-weight: normal;
   color: #40E0D0;
   font-size: 18px;
+  margin-bottom: 30px;
  }
 
 /*----------------------------------BLOCK-4--------------------------------------*/
@@ -218,9 +231,10 @@ p.ps-3-4 {
 
 
 p.ps-4-2 {
+  font-weight: 400;
  color: #3C4761;
  font-size: 18px;
- padding-bottom: 50px;
+ padding-bottom: 70px;
 }
 .circlesmall {
 
@@ -237,6 +251,7 @@ p.ps-4-2 {
 }
 
 p.ps-4-3 {
+  margin-top: 20px;
   font-weight: bold;
  font-size: 150%;
  text-transform: uppercase;
@@ -524,9 +539,10 @@ font-size: 0.5em;
 
 
 p.ps-5-2 {
+    font-weight: 400;
  color: #393939;
  font-size: 18px;
- padding-bottom: 20px;
+ padding-bottom: 40px;
 }
 
 .portfolio {
@@ -572,6 +588,7 @@ a.active-1 {
 .two{
   width: 50%;
   float: left;
+  margin-bottom: 20px;
 
 }
 .three{
@@ -579,6 +596,7 @@ a.active-1 {
   float: left;
 }
 p.ps-5-3 {
+  margin-top: 20px;
    text-transform: uppercase;
   color: #393939;
  font-size: 21px;
@@ -604,7 +622,7 @@ border-radius: 5px;
 .section-6 {
  background-color: #D74680; 
  padding-top: 1px;
- padding-bottom: 50px;
+ padding-bottom: 100px;
  text-align: center;
   color: #fff;
 }
@@ -612,9 +630,10 @@ border-radius: 5px;
 
 
 p.ps-6-2 {
+  font-weight: 400;
  color: #fff;
  font-size: 18px;
- padding-bottom: 20px;
+ padding-bottom: 50px;
 }
 
 .circlesmall1 {
@@ -630,6 +649,7 @@ p.ps-6-2 {
 .twoo{
   width: 50%;
   float: left;
+  margin-bottom: 120px;
 
 
 }
@@ -640,7 +660,7 @@ p.ps-6-2 {
 }
 
 .em {
-  
+ 
   text-align: left;
   margin-left: 175px;
   float: left;
@@ -648,9 +668,12 @@ p.ps-6-2 {
 
 .em em {
  color: #F4CDDD;
+ font-weight: bold;
+ font-style: oblique;
 }
 
 p.ps-6-3 {
+  margin-top: 20px;
   font-weight: bold;
    text-transform: uppercase;
  color: #fff;
@@ -660,6 +683,7 @@ p.ps-6-3 {
 }
 
 p.ps-6-4 {
+    font-weight: bold;
  color: #FFDD99;
  font-size: 14px;
  margin-top: 0px;
